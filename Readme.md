@@ -1,4 +1,5 @@
 # Team Profile Generator
+![image](https://user-images.githubusercontent.com/56428388/147607422-b6a576ab-556e-4094-baff-c0fc1237b862.png)
 [![License Badge]()]()
   ## Table of Contents
   - [Description](#Description)
